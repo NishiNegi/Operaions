@@ -1,3 +1,22 @@
 {
-    "type": "module"
-  }
+  "type": "module",
+  "name": "node",
+  "description": "This repository contains fur functions, one for each basic operation, in a module (```operations.js```).\r ```index.js``` Allows to have an object with several users' values for each operation and returs each operation result.\r ## Files\r - operations.js\r - index.js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NishiNegi/Operaions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NishiNegi/Operaions/issues"
+  },
+  "homepage": "https://github.com/NishiNegi/Operaions#readme"
+}
